@@ -12,6 +12,13 @@ The Banking App API is a Server-side application that facilitates the management
 5. All input is sent from a client (Postman) and handled by the Server
 6. All DAO and Service methods must have a test proving that they work
 
+## Technologies Used
+- Java 8+
+- Javalin
+- PostgreSQL
+- AWS RDS
+- Postman
+- JUnit
 
 ## RESTful Endpoints:
 
