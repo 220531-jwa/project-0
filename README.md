@@ -1,9 +1,9 @@
 # project-0
-The Banking App API is a Server-side application that facilitates the management of Client's Bank Accounts. A client create new accounts of various categories. Clients can deposit or withdraw funds from the account as well as close out accounts.
+The Banking App API is a Server-side application that facilitates the management of Clients' Bank Accounts. A client can create new accounts of various categories (i.e. Checkings Account, Savings Account). Clients can deposit or withdraw funds from the account as well as close out accounts.
 	
 ## Purpose
 
-   We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team.
+We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team. Presentation date: TBD sometime in week 3.
 
 ## Requirements
 1. All endpoints listed below must have a Postman test verifying functionality
