@@ -12,6 +12,9 @@ We want to see that you can meet deadlines and that you can code. You are expect
 5. All input is sent from a client (Postman) and handled by the Server
 6. All DAO and Service methods must have a test proving that they work
 
+## More directions
+Please create your own repository in this organization. Name it `firstName_lastName_p0`.
+
 ## Technologies Used
 - Java 8+
 - Javalin
