@@ -3,7 +3,9 @@ The Banking App API is a Server-side application that facilitates the management
 	
 ## Purpose
 
-We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team. Presentation date: TBD sometime in week 3.
+We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team. 
+
+### Presentation date: Friday, July 17
 
 ## Requirements
 1. All endpoints listed below must have a Postman test verifying functionality
