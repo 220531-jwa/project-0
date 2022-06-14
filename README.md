@@ -5,14 +5,14 @@ The Banking App API is a Server-side application that facilitates the management
 
 We want to see that you can meet deadlines and that you can code. You are expected to complete the following requirements and give a 5 minute presentation of your project to our QC team. 
 
-### Presentation date: Friday, July 17
+### Presentation date: Friday, June 17
 
 ## Requirements
 1. All endpoints listed below must have a Postman test verifying functionality
 2. Data is stored in a database.
 3. Data Access is performed through the use of Data Access Objects.
-5. All input is sent from a client (Postman) and handled by the Server
-6. All DAO and Service methods must have a test proving that they work
+4. All input is sent from a client (Postman) and handled by the Server
+5. All Service methods must have a test proving that they work (Mocking the DAO Layer)
 
 ## More directions
 Please create your own repository in this organization. Name it `firstName_lastName_p0`.
